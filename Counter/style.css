@@ -1,0 +1,28 @@
+body{
+    display: block;
+    margin-top: 200px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.Count{
+    color: green;
+    height: 80px;
+    font-size: 70px;
+}
+.btn{
+    height:50px;
+    width: 170px;
+    margin-right: 20px;
+    margin-left: 20px;
+    border: 2px solid black;
+    font-size: x-large;
+    cursor: pointer;
+}
+.btn:hover{
+    border-color: blueviolet ;
+}
+.heading{
+
+    font-size: 40px;
+    
+}
